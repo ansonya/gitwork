@@ -7,7 +7,7 @@ def Welcome():
 
 
 def Bye():
-    return "Bye"
+    return "Bye done by owner"
 
 
 def gitwork():
