@@ -15,7 +15,7 @@ def gitwork():
 
 
 def Salary():
-    return "No salary !"
+    return "No salary by melvi !"
 
 
 Hello()
