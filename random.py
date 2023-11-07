@@ -1,5 +1,3 @@
-
-
 def old():
     print("Hello World!")
     print("Hello World!")
