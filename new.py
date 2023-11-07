@@ -7,8 +7,11 @@ def Welcome():
 def Bye():
     return "Bye"
 
+def gitwork():
+    return "done by dhan"
 
 
 Hello()
 Welcome()
 Bye()
+gitwork()
